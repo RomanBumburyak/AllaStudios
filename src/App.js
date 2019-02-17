@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           
           <p>
-            Hello We are currently working on this Site, Please check back in soon!
+            Hello, We are currently working on this Site, Please check back in soon!
           </p>
           
         </header>
