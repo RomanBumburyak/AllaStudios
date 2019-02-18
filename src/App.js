@@ -10,6 +10,8 @@ class App extends Component {
           
           <p>
             Hello, We are currently working on this Site, Please check back in soon!
+            Courtesy of 7Oaks Software Development.
+            
           </p>
           
         </header>
